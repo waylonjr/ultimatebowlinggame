@@ -14,9 +14,9 @@
 
             if (Throw1.Score.ToLower() == "x")
             {
-                //    if (current frame throw1 == X)
-                //then
-                //    score = 10 + add next two throws(regardless of the frame)
+                ////if (current frame throw1 == X)
+                ////then
+                ////    score = 10 + add next two throws(regardless of the frame)
 
                 score = 10;
                 if (nextFrame != null && nextFrame.Throw1 != null)
